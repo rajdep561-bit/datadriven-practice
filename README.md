@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/cozy_elk_4787), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Cache That Ate the Cluster](./practice/sql/the-cache-that-ate-the-cluster) | SQL | Medium | 2026-11-14 |
 | [Past the Threshold](./practice/sql/past-the-threshold) | SQL | Medium | 2026-11-14 |
 | [Customer Full Name Concat](./practice/sql/customer-full-name-concat) | SQL | Easy | 2026-11-08 |
 | [Campaign Conversion Window](./practice/sql/campaign-conversion-window) | SQL | Hard | 2026-11-08 |
