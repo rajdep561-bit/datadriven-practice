@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/cozy_elk_4787), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Campaign Conversion Window](./practice/sql/campaign-conversion-window) | SQL | Hard | 2026-11-08 |
 | [Errors With Service Health](./practice/sql/errors-with-service-health) | SQL | Easy | 2026-11-07 |
 
 <!-- datadriven:index:end -->
